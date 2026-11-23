@@ -1,3 +1,3 @@
-# Data Science Coding Practice
+# Data Science, Machine learning and Stats
 
-Python and SQL practice notebooks covering probability, statistics, machine learning, and data science coding.
+Python simulation practices covering probability, statistics, machine learning, and data science. 
