@@ -1,3 +1,3 @@
 # Data Science, Machine learning and Stats
 
-Python simulation practices covering probability, statistics, machine learning, and data science. 
+Blog posts covering probability, statistics, machine learning, and data science. 
